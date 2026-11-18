@@ -1,4 +1,4 @@
-name: CI
+name: Multi-Platform Matrix Testing Workflow
 
 on:
   push:
